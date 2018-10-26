@@ -1,3 +1,3 @@
-# Interesting-Node
+# NodeDemo
 
-https://www.runoob.com/nodejs/nodejs-repl.html
+练习node途中的一些demo
