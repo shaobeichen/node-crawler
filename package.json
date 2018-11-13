@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
     "mocha": "^5.2.0",
     "should": "^13.2.3",
     "superagent": "^4.0.0-beta.5"
+  },
+  "devDependencies": {
+    "mocha-phantomjs": "^4.1.0"
   }
 }
