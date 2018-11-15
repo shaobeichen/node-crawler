@@ -13,6 +13,7 @@
     "async": "^2.6.1",
     "express": "^4.16.4",
     "mysql": "^2.16.0",
+    "opener": "^1.5.1",
     "superagent": "^4.0.0-beta.5",
     "superagent-charset": "^1.2.0"
   }
