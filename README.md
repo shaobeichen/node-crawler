@@ -4,17 +4,10 @@
 
 - 基于node的实用简单demo
 
-## 开发环境
+## 目录
 
-- Node.js@8.11.1
-
-## 安装
-
-```
-$ cd xxx //进入指定文件夹
-$ npm i
-$ npm start
-```
+- [init-demo](https://github.com/LeachZhou/node-demo/tree/master/init-demo) Node练习
+- [juejin-following](https://github.com/LeachZhou/node-demo/tree/master/juejin-following) 掘金关注爬虫
 
 ## 贡献
 
