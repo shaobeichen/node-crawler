@@ -1,8 +1,8 @@
-# 🐢 node-demo
+# 🐢 juejin-following
 
 ## 介绍
 
-- 基于node的实用简单demo
+- juejin-following是一个批量关注掘金用户爬虫，使用Node.js开发。
 
 ## 开发环境
 
@@ -11,7 +11,7 @@
 ## 安装
 
 ```
-$ cd xxx //进入指定文件夹
+$ cd juejin-following
 $ npm i
 $ npm start
 ```
