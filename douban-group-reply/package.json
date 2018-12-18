@@ -1,28 +1,27 @@
 {
-  "name": "node-demo",
+  "name": "douban-robot",
+  "description": "豆瓣小组顶帖机器人",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true",
-    "start": "node index"
+    "start": "node app.js --node-args='--harmony' --name 'douban-robot'"
   },
+  "keywords": [
+    "douban",
+    "group",
+    "douban-group",
+    "robot"
+  ],
+  "dependencies": {
+    "co": "3.1.0",
+    "co-request": "0.2.0",
+    "cheerio": "0.17.0",
+    "debug": "2.0.0",
+    "cron": "1.0.5"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeachZhou/node-demo.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LeachZhou/node-demo/issues"
-  },
-  "homepage": "https://github.com/LeachZhou/node-demo#readme",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.4",
-    "opener": "^1.5.1",
-    "superagent": "^4.0.0-beta.5",
-    "superagent-charset": "^1.2.0"
-  },
-  "devDependencies": {}
+    "url": "https://github.com/nswbmw/douban-robot.git"
+  }
 }

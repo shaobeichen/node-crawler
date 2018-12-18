@@ -8,6 +8,7 @@
 
 - [[ init-demo ]](https://github.com/LeachZhou/node-demo/tree/master/init-demo) Node练习
 - [[ juejin-following ]](https://github.com/LeachZhou/node-demo/tree/master/juejin-following) 掘金关注爬虫
+- [[ github-project ]](https://github.com/LeachZhou/node-demo/tree/master/github-project) github project 爬虫
 
 ## 贡献
 
