@@ -1,0 +1,22 @@
+{
+  "name": "mt-ele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "html-entities": "^1.2.1",
+    "mysql": "^2.16.0",
+    "opener": "^1.5.1",
+    "superagent": "^4.0.0-beta.5",
+    "superagent-charset": "^1.2.0"
+  }
+}
