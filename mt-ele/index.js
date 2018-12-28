@@ -9,54 +9,36 @@ const iconv = require('iconv-lite');
 require('superagent-charset')(superagent);//防止爬取下来的数据乱码，更改字符格式
 require('superagent-proxy')(superagent); //代理IP
 require("opener")('http://127.0.0.1:3000'); //自动打开浏览器
-let Ut = require("./sleep");
-let sqlUtil = require("./sql");
-let params = require("./params");
-let userAgents = require("./userAgent");
+const util = require("./util");
+const sqlUtil = require("./sql");
+const params = require("./params");
+const userAgents = require("./userAgent");
+const userAgent = userAgents[parseInt(Math.random() * userAgents.length)];
+
+let addSql = 'INSERT INTO list(title,address,imageUrl,aid,areaname) VALUES(?,?,?,?,?)';
+let proxyAddSql = 'INSERT INTO proxy(url) VALUES(?)';
+let modSql = 'UPDATE list SET phone = ? WHERE aid = ?';
 
 
-let proxyOriginUrl = 'http://www.66ip.cn/mo.php?tqsl=100';
-let userAgent = userAgents[parseInt(Math.random() * userAgents.length)];
+// util.proxySlide(proxyAddSql);
+//
+// return false
 
-superagent
-    .get(proxyOriginUrl)
-    .set({
-        'User-Agent': userAgent,
-        'referer': 'www.66ip.cn'
-    })
-    .end((err, ret) => {
-        let body = '';
-        if (/meta.*charset=gb2312/.test(ret.text)) {
-            body = iconv.decode(ret.text, 'gbk');
-        }
-        let res = body.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d{1,5}/g);
-        console.log(ret.text);
-    });
-return false
-
-superagent
-    .get('https://www.meituan.com/cate/158714218')
-    .set({'User-Agent': userAgent})
-    .proxy()
-    .end((err, ret) => {
-        var $ = cheerio.load(ret.text);
-        console.log(`${entities.decode($('html').html())}++++++++++`)
-    });
+// superagent
+//     .get('https://www.meituan.com/meishi/158714218')
+//     .set({'User-Agent': userAgent})
+//     // .redirects(0)
+//     .end((err, ret) => {
+//         var $ = cheerio.load(ret.text);
+//         console.log(`${entities.decode($('html').html())}++++++++++`)
+//     });
 
 //关注接口url及参数
 let followUrl = `https://www.meituan.com/cate/`;  //商家页面
 
 // 美团列表url及参数
 let listUrl = 'https://apimobile.meituan.com/group/v4/poi/pcsearch/1089';
-let listPage = 1;//分页
-let listData = {
-    'uuid': '1d6abe4902074e3795d5.1545787314.1.0.0',
-    'userid': '-1',
-    'limit': '32',
-    'offset': '32' * listPage,
-    'cateId': '-1',
-    'q': '附近'
-}
+
 
 let followFuncCurrencyCount = 0;//商家并发数
 let followFunc = (reqUrl, callback) => {
@@ -65,7 +47,7 @@ let followFunc = (reqUrl, callback) => {
     console.log(`现在的商家并发数是${followFuncCurrencyCount}`);
     return new Promise((resolve, reject) => {
         superagent.get(url).buffer(true)
-            .end((err, ret) => {
+            .end(async (err, ret) => {
                 followFuncCurrencyCount--;
                 // console.log(followFuncCurrencyCount);
                 var $ = cheerio.load(ret.text);
@@ -73,8 +55,8 @@ let followFunc = (reqUrl, callback) => {
                 // let text = $('.seller-info-body .item').eq(1).find('span').eq(1).text();
                 // console.log(`${ret.text}++++++++++`)
                 let modSqlParams = [text, url.split(followUrl)[1]];
-                let updateSqlUtil = new sqlUtil(modSqlParams);
-                updateSqlUtil.update(callback);
+                let updateSqlUtil = new sqlUtil();
+                await updateSqlUtil.query(modSql, modSqlParams);
                 resolve({code: 200, msg: "", data: text});
                 reject({code: 400, msg: "", data: err});
                 callback();
@@ -112,9 +94,17 @@ app.get('/', function (req, res) {
     res.header('Host', 'www.meituan.com');
     res.header('Referer', 'https://qidongxian.meituan.com/s/%E9%99%84%E8%BF%91/');
 
-    let flagUrl = `${listUrl}?${params(listData)}`;
     let followeeFuncUrlArr = [];
-    followeeFuncUrlArr.push(flagUrl);
+    for (let i = 1; i < 33; i++) {
+        followeeFuncUrlArr.push(`${listUrl}?${params({
+            'uuid': '1d6abe4902074e3795d5.1545787314.1.0.0',
+            'userid': '-1',
+            'limit': '32',
+            'offset': '32' * i,
+            'cateId': '-1',
+            'q': '附近'
+        })}`);
+    }
     let wh = () => {
         async.mapLimit(followeeFuncUrlArr, 1, (url, callback) => {
             (async () => {
@@ -127,11 +117,11 @@ app.get('/', function (req, res) {
                 }
                 let followFuncUrlArr = [];
                 let num = 1;
-                async.each(datadata, (item, callback) => {
+                async.each(datadata, async (item, callback) => {
                     followFuncUrlArr.push(`${followUrl}${item.id}`);
                     let addSqlParams = [item.title, item.address, item.imageUrl, item.id, item.areaname];
-                    let addSqlUtil = new sqlUtil(addSqlParams);
-                    addSqlUtil.insert(callback); //这个回调告诉each函数，这个异步操作完成，如果去掉这个函数，each他就不知道这些函数是否成功执行完成
+                    let addSqlUtil = new sqlUtil();
+                    await addSqlUtil.query(addSql, addSqlParams); //这个回调告诉each函数，这个异步操作完成，如果去掉这个函数，each他就不知道这些函数是否成功执行完成
                 }, (err) => {
                     // 所有SQL执行完成后回调
                     if (err) {
@@ -144,16 +134,10 @@ app.get('/', function (req, res) {
                     console.log(`查看第${num}个商家`)
                     await followFunc(url, callback);
                     num++;
-                    // Ut.sleep(2);
+                    // util.sleep(2);
                 }, (err, result) => {
                     console.log(`查看商家成功`);
                 });
-
-                return false;
-                listPage++;
-                followeeFuncUrlArr.push(`${listUrl}?${params(listData)}`);
-                // Ut.sleep(2);
-                await wh();
             })()
         }, (err, result) => {
             console.log("查看列表成功");
