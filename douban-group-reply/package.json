@@ -16,7 +16,7 @@
     "co": "3.1.0",
     "co-request": "0.2.0",
     "cheerio": "0.17.0",
-    "debug": "2.0.0",
+    "debug": ">=2.6.9",
     "cron": "1.0.5"
   },
   "license": "MIT",
