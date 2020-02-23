@@ -1,3 +1,7 @@
+/**
+ * 用于测试node并发的一段代码
+ */
+
 const eventproxy = require('eventproxy');
 const cheerio = require('cheerio');
 const express = require('express');
@@ -44,7 +48,7 @@ let fetchUrl = function (url, callback) {
 };
 
 let urls = [];
-for(let i = 0; i < 30; i++) {
+for (let i = 0; i < 30; i++) {
     urls.push('http://datasource_' + i);
 }
 
