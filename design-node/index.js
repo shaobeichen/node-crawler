@@ -1,37 +1,30 @@
+const FormData = require('form-data')
 const cheerio = require('cheerio') //抓取页面模块 
 const superagent = require('superagent')//用来发起请求
 const superagentCharset = require('superagent-charset')//防止爬取下来的数据乱码，更改字符格式
 superagentCharset(superagent)
 const async = require('async')
+const request = require('request')
 const fs = require("fs")
 
-const baseUrl = 'http://www.yishuzi.com/b/re13.php'
-console.log("==========================执行开始==========================")
+let page = 1
+let baseUrl = "https://www.shouhuizhaopian.com/app/index.php?i=1&uniacid=1&t=undefined&v=1.3&m=ewei_shopv2&from=wxapp&c=entry&a=wxapp&do=main&sign=f3733b8c949273ea89bb23ae90e4258d&pn=comment&op=list&id=2&page="
 
 const main = async () => {
-    try {
-        const data = await ajax(baseUrl, "POST", {})
-        console.log(data)
-        console.log("==========================执行完毕==========================")
-        // let items = []
-        // let $ = cheerio.load(data.text)
-        // $('div.g-main-bg ul.g-gxlist-imgbox li a').each(function (idx, element) {
-        //     let $element = $(element)
-        //     let $subElement = $element.find('img')
-        //     let thumbImgSrc = $subElement.attr('src')
-        //     let name = $(element).attr('title')
-        //     let url = $element.attr('href')
-        //     items.push({
-        //         title: name,
-        //         href: url,
-        //         thumbSrc: thumbImgSrc
-        //     })
-        //     superagent.get(thumbImgSrc).pipe(fs.createWriteStream(`down/${Math.random() * 1000}.jpg`))
-        // })
-        // res.json({ code: 200, msg: "", data: items })
-    } catch (e) {
-        console.log('ERR: ' + e)
+    const { text } = await ajax(`${baseUrl}${page}`, "GET")
+    const list = JSON.parse(text).data.list
+    console.log(`==========================执行第${page}页完毕==========================`)
+    for (let i = 1; i < list.length; i++) {
+        let imgUrl = list[i].images.length ? list[i].images[0] : ""
+        let filename = `${page}-${i}.png`
+        await sleep(500)
+        if (imgUrl) {
+            await request(imgUrl).pipe(fs.createWriteStream("./image/" + filename))
+            console.log(`保存了${page}-${i}.png`)
+        }
     }
+    page += 1
+    main()
 }
 
 
@@ -53,6 +46,7 @@ const ajax = function (url, method = "GET", params, header = {}, charset = "utf-
         prefix
             .set(header)
             .charset(charset)
+            .buffer(true)
             .then(res => {
                 resolve(res)
             })
@@ -60,6 +54,10 @@ const ajax = function (url, method = "GET", params, header = {}, charset = "utf-
                 reject(err)
             })
     })
+}
+
+const sleep = (ms) => {
+    return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 main()
