@@ -1,58 +1,74 @@
-const sqlUtil = require("./sql");
-const async = require('async');//并发
-const userAgents = require("./userAgent");
-const userAgent = userAgents[parseInt(Math.random() * userAgents.length)];
-const superagent = require('superagent');//用来发起请求
-require('superagent-charset')(superagent);//防止爬取下来的数据乱码，更改字符格式
-const cheerio = require('cheerio'); //抓取页面模块
+const superagent = require('superagent')//用来发起请求
+const superagentCharset = require('superagent-charset')//防止爬取下来的数据乱码，更改字符格式
+superagentCharset(superagent)
+// const superagentProxy = require('superagent-proxy') //代理IP
 
-
-class Ut {
-    /**
-     * 异步延迟
-     * @param {number} time 延迟的时间,单位毫秒
-     */
-    static sleep(time = 0) {
-        var StartTime = new Date().getTime();
-        let i = 0;
-        while (new Date().getTime() < StartTime + time * 1000) ;
-    };
-
-    static proxySlide(proxyAddSql) {
-        let urlArr = [];
-        let proxyOriginUrl = 'https://www.kuaidaili.com/free/inha/';
-        for (let i = 1; i < 3; i++) {
-            urlArr.push(`${proxyOriginUrl}${i}`);
+const ajax = (url, method = "GET", params, header = {}, charset = "utf-8") => {
+    return new Promise((resolve, reject) => {
+        //网页页面信息是gb2312，所以charset应该为.charset('gb2312')，一般网页则为utf-8,可以直接使用.charset('utf-8')
+        let prefix
+        switch (method) {
+            case "GET":
+                prefix = superagent(method, url).query(params)
+                break
+            case "POST":
+                prefix = superagent(method, url).send(params)
+                break
+            default:
+                prefix = superagent(method, url).query(params)
+                break
         }
-        let count = 0;//并发数
-        console.log(`现在的代理抓取并发数是${count}`);
-        let addSqlUtil = new sqlUtil();
-        async.mapLimit(urlArr, 1, (url) => {
-            console.log(`查看代理 ${url}`)
-            count++;
-            superagent
-                .get(url)
-                .set({
-                    'user-Agent': userAgent
-                })
-                .end((err, res) => {
-                    if (err) {
-                        // return console.error(err);
-                    }
-                    let $ = cheerio.load(res.text);
-                    $('#list tbody tr').each(async (idx, element) => {
-                        let url = `${$(element).find('td').eq(0).text()}:${$(element).find('td').eq(1).text()}`;
-                        let addSqlParams = [url];
-                        let insertProxyCallback = await addSqlUtil.query(proxyAddSql, addSqlParams);
-                        count--;
-                        return insertProxyCallback;
-                    })
-                });
-        }, (err, result) => {
-            console.log(`查看代理成功`);
-        });
-
-    }
+        prefix
+            .set(header)
+            .charset(charset)
+            .buffer(true)
+            .then(res => {
+                resolve(res)
+            })
+            .catch(err => {
+                reject(err)
+            })
+    })
 }
 
-module.exports = Ut;
+const sleep = (ms) => {
+    return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+/**
+ * json转URL参数
+ * @param json json
+ * @returns {string} url参数
+ */
+const json2params = (json) => {
+    return Object.keys(json).map(function (key) {
+        return encodeURIComponent(key) + "=" + encodeURIComponent(json[key])
+    }).join("&")
+}
+
+const params2json = (url) => {
+    let arr = []; //存储参数的数组
+    let res = {}; //存储最终JSON结果对象
+    arr = url.split("?")[1].split("&"); //arr=["a=1", "b=2", "c=test", "d"]
+
+    for (let i = 0, len = arr.length; i < len; i++) {
+        //如果有等号，则执行赋值操作
+        if (arr[i].indexOf("=") != -1) {
+            let str = arr[i].split("=");
+            //str=[a,1];
+            res[str[0]] = str[1];
+        } else {//没有等号，则赋予空值
+            res[arr[i]] = "";
+        }
+    }
+    res = JSON.stringify(res);//转化为JSON字符串
+    return res; //{"a": "1", "b": "2", "c": "test", "d": ""}
+}
+
+
+module.exports = {
+    ajax,
+    sleep,
+    json2params,
+    params2json
+}

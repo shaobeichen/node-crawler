@@ -1,20 +1,20 @@
 /**
- * 数据库
+ * 数据库操作
  */
-const mysql = require('mysql');
+const mysql = require('mysql')
 
 class sqlUtil {
-    constructor() {
+    constructor () {
         this.pool = mysql.createPool({
             host: 'localhost',
             user: 'root',
             password: '',
             port: '3306',
             database: 'meituan'
-        });
+        })
     }
 
-    query(sql, values) {
+    query (sql, values) {
         return new Promise((resolve, reject) => {
             this.pool.getConnection(function (err, connection) {
                 if (err) {
@@ -27,7 +27,7 @@ class sqlUtil {
                             resolve(rows)
                         }
                         // 结束会话
-                        connection.release();
+                        connection.release()
                     })
                 }
             })
@@ -36,4 +36,4 @@ class sqlUtil {
 
 }
 
-module.exports = sqlUtil;
+module.exports = sqlUtil
