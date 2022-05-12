@@ -25,15 +25,15 @@ jobs:
 
       - name: Pull
         run: |
-        git config --global user.email "leachzhou@163.com"
-        git config --global user.name "LeachZhou"
-        git remote set-url origin https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
-        git pull --rebase
+          git config --global user.email "leachzhou@163.com"
+          git config --global user.name "LeachZhou"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
 
       - name: Install dependencies
         run: |
-        cd yikechuanmei
-        npm install
+          cd yikechuanmei
+          npm install
 
       - name: Build
         run: |
