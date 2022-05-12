@@ -3,7 +3,7 @@ name: 'yikechuanmei'
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 21 * * *'
 
