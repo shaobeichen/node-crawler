@@ -465,14 +465,14 @@ const main = async () => {
       const [itemName, itemSuffix] = v.split('.')
       return !v.includes('icon') && suffix.includes(itemSuffix)
     })
-    console.log(wallpaperFilesFilter)
-    // https://cdn.jsdelivr.net/gh/LeachZhou/wallpaper@main/wallpaper.json
 
-    // if (!dirPath.includes('wallpaper')) await fs.mkdirSync(wallpaperPath)
+    const base = 'https://cdn.jsdelivr.net/gh/LeachZhou/node-crawler@master/yikechuanmei/archive'
+    const wallpaperUrlBase = `${base}/${dirName}/wallpaper/`
+    const wallpaperUrl = wallpaperFilesFilter.map((v) => wallpaperUrlBase + v)
 
-    // const filename = `${dayjs().format('YYYY-MM-DD')}.json`
-    // await fs.writeFileSync(`./archive/${filename}`, JSON.stringify(res))
-    // console.log(`==================已保存${filename}==================`)
+    const filename = `./archive/${dirName}/${dirName}.json`
+    await fs.writeFileSync(filename, JSON.stringify({ wallpaper: wallpaperUrl }))
+    console.log(`==================已保存${filename}==================`)
   }
   console.log('==========================执行完毕==========================')
 }
