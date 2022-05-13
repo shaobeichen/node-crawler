@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11722" updatetime="20220513">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="9D5C215CC3011A136A468CEBCC59139B.jpg" title="让我们跑一夏" content="掌握这六大跑步技巧，你就能成为大神！©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II01GQD0JE32EYC.html" packagename=""/>
+			<image src="2E1ED550869711379B7950028C8334DC.jpg" title="爬山运动好处多" content="多进行登山运动，可以得到这几个无价的好处，赶紧行动起来吧。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5390394" packagename=""/>
+		</type>
+	</switch>
+</layout>
