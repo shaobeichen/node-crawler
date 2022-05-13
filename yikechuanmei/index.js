@@ -423,7 +423,6 @@ const saveZip = (zipData, zipPath, wallpaperPath) => {
       })
       zip.on('ready', async () => {
         zip.extract(null, wallpaperPath, (err, count) => {
-          console.log(err ? `Extract error ${err}` : `Extracted ${count} entries`)
           zip.close()
           resolve()
         })
@@ -436,7 +435,7 @@ const saveZip = (zipData, zipPath, wallpaperPath) => {
  * 主程序
  */
 const main = async () => {
-  console.log('==========================执行开始==========================')
+  console.log('==================执行开始==================')
 
   const { sign } = await loginClient()
   const res = await getThemeMagazine(sign)
@@ -470,11 +469,32 @@ const main = async () => {
     const wallpaperUrlBase = `${base}/${dirName}/wallpaper/`
     const wallpaperUrl = wallpaperFilesFilter.map((v) => wallpaperUrlBase + v)
 
+    // 生成单个json
     const filename = `./archive/${dirName}/${dirName}.json`
     await fs.writeFileSync(filename, JSON.stringify({ wallpaper: wallpaperUrl }))
-    console.log(`==================已保存${filename}==================`)
+    console.log(`==================已保存${dirName}==================`)
+
+    // 归总json
+    if (!path.includes('total.json'))
+      await fs.writeFileSync(
+        './total.json',
+        JSON.stringify({
+          wallpaper: [],
+        }),
+      )
+    const data = await fs.readFileSync('./total.json', 'utf-8')
+    const parseData = JSON.parse(data)
+    const [first] = parseData.wallpaper
+    if (!first || (first && first.date !== dirName)) {
+      parseData.wallpaper.unshift({
+        url: wallpaperUrl,
+        date: dirName,
+      })
+      await fs.writeFileSync('./total.json', JSON.stringify(parseData))
+      console.log('==================归总完成==================')
+    }
   }
-  console.log('==========================执行完毕==========================')
+  console.log('==================执行完毕==================')
 }
 
 main()
