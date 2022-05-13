@@ -30,13 +30,10 @@ jobs:
           git remote set-url origin https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
 
-      - name: Install dependencies
+      - name: Build
         run: |
           cd yikechuanmei
           npm install
-
-      - name: Build
-        run: |
           npm run start
           git add .
           git diff-index --quiet HEAD && git status || git commit -m "Update by github action" && git push
