@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11752" updatetime="20220516">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="658F982F7C49D79946C8012523090B18.jpg" title="滑雪要做的功课" content="滑雪常见的五种受伤情况，掌握这些知识关键时能救命！©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5387594" packagename=""/>
+			<image src="6109563A1436DEE8ECF13ACBE1EA0C4B.jpg" title="举重初学者指南" content="快速伸缩复合练习，举重冠军都在用的训练方法。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II01KW8FBII5J94.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
