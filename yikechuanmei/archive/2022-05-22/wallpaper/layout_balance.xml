@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11802" updatetime="20220521">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="E98DED4A5FA4DA837A4AD97456561A97.jpg" title="冲浪知识盘点" content="十种冲浪的技巧，get到了你就是水上强者！©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY01BG8CIKM8SX8.html" packagename=""/>
+			<image src="31B6A156788F0D2EDA7F819626B98C49.jpg" title="健身讲究效率" content="新手初入健身房，应该怎么安排重量训练？附：一周健身训练计划。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IC012JR7GH7JBVN.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
