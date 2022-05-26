@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11852" updatetime="20220526">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="D3343D8BE78C8C08DAB6B00C25CCAABC.jpg" title="滑板之路" content="脚踏滑板，带板起跳，宛若新生，来一次酣畅淋漓的释放，你会发现不一样的自己。©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5388903" packagename=""/>
+			<image src="52CF7BE16DF8195C113DBC9F7C903F17.jpg" title="灌篮高手的技巧" content="灌篮是扣篮的花式打法，是一种更刺激，更能使观众情绪高昂的打法。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II014AB4QOJRPRW.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
