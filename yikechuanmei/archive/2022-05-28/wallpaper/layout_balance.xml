@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11862" updatetime="20220527">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="E38F3DB3230E364198E2B95EF4DE8E13.jpg" title="冲浪的打开方式" content="冲浪需要自身有较好的协调力，尤其是新手，更要事先了解，做好准备。©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5388368" packagename=""/>
+			<image src="46C971C077D8F0868262274B97EB9B32.jpg" title="网球旋转球" content="“网球王子”纳达尔的满贯技巧，打出旋转式网球！©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IT01A0676MVHVT6.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
