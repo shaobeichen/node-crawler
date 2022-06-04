@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11942" updatetime="20220604">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="A11E145D17196136C6473B33105F9BC4.jpg" title="马术初学秘籍" content="马术，说得上是最需要“心猿意马”的一个运动了。
+©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5403610" packagename=""/>
+			<image src="6A033835E48B36DE942EB6E3B68C0D38.jpg" title="投篮经典姿势" content="近年在NBA逐渐消失的五大篮球技巧，个个经典。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II01LGK422LFTKV.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
