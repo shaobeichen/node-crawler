@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11952" updatetime="20220605">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="9694FBFEEDBB4C29900CA2859DB963D7.jpg" title="海底世界的秘密" content="人类除了抬头探索星空，还有下水探索海洋。
+©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5403606" packagename=""/>
+			<image src="A3D9F30C871360D625841CDC2473931F.jpg" title="花式足球后沟球" content="足球后勾球，是很老派又很基础的技巧，比较适合初学者。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II008NTXTDH5DJP.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
