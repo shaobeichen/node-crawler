@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11962" updatetime="20220606">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="E88FA6AE1A3789AC8CE259CF4732E513.jpg" title="跳伞的种类" content="高空跳伞、滑翔伞、太空跳伞等不同种类的跳伞，都有什么区别。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5403672" packagename=""/>
+			<image src="FF72E5BB6604B3F3D452422F216FF019.jpg" title="玩转海上摩托艇" content="水上摩托艇冲浪要如何正确操作？看完这篇让你变身老司机！©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00N4QXWZ0X027.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
