@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12052" updatetime="20220615">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="54AC2CA9EF811A0E0F7663689F92CC32.jpg" title="花分三六九等" content="在鲜花质检师的眼里，不同等级的鲜花有着天壤之别！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7104202562618294788/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425835" packagename=""/>
+			<image src="95E0C592B8B7FF9872B5F11AEA3C9E26.jpg" title="鲜花隐藏的学问" content="选择鲜切花，我们不仅要认识各种花材，还要了解每种花的特性。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212457.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C686BA591742C371370D7D7CFEC05485.jpg" title="静享生活旧时光" content="老旧家具和色彩的碰撞，配上绿植营造的空间氛围，显得房间温馨质朴。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212500.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8FA560AC9EAD6CAC0D5E7A2EB779FB51.jpg" title="家居收纳的意义" content="家居收纳渗透在生活的方方面面，与家居生活的幸福感息息相关。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7103363197503160847/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426089" packagename=""/>
+		</type>
+	</switch>
+</layout>
