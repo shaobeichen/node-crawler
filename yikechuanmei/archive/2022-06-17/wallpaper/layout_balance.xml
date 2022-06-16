@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12062" updatetime="20220616">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="088D66F2C852131794E441A1CB7C4675.jpg" title="用花卉点缀生活" content="家庭插花已步入千家万户，色彩的运用是插花作品成败的重要因素！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7106314911261065728/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425866" packagename=""/>
+			<image src="9F4357A49545015D20ED3AB502B76F32.jpg" title="花器的点缀" content="植物的生命是短暂的，花器却可以长久地摆放于空间之中，迎接新生命的到来。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212453.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="1461BA5BAB006835C531DD88B7976C15.jpg" title="清新范的厨房" content="田园风的厨房设计，青色的橱柜搭配白色的台面，让人拥有愉快的烹饪心情。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212485.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="534FE1A7D7568DCDE91F26304A3673DC.jpg" title="梦幻儿童房" content="就儿童房这简简单单的几平米，收藏着小孩子天马行空的心事。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7103364160418841123/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426086" packagename=""/>
+		</type>
+	</switch>
+</layout>
