@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12072" updatetime="20220617">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="683D74B5D18C4391CC0967A9CC040D38.jpg" title="鲜花礼仪的奥秘" content="送花是一门学问，也是一门艺术。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212458.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8B7559786E4522503C0A75256C14A3B7.jpg" title="星座鲜花各不同" content="一花一世界，一叶一追寻。当星座遇见鲜花，会带来怎样的期待？©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7109377128151450112/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426234" packagename=""/>
+			<image src="B322D65D0B8879C95FBA59FD8B08EE4B.jpg" title="客厅装修细节控" content="客厅装修风格除了要自己喜欢的外，还要做到“有颜有品”！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7103361639461814824/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426116" packagename=""/>
+			<image src="161044458E44C02AE5EDDB2836279262.jpg" title="阁楼创意空间" content="把生活留在一楼，让梦想在阁楼开花。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212488.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
