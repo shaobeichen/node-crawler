@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022062401" updatetime="20220624">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="55E9EDB0CC6D2A7C7CB91303C80BD554.jpg" title="足下的艺术" content="看不懂花样滑冰？带你轻松解读花滑的六种跳跃。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00N4ZU7NN5U1K.html" packagename=""/>
+			<image src="D946D7CFB5A05B0CC9CC333CF9689422.jpg" title="越野摩托的姿势" content="骑越野摩托，坐着还是站着好？©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5389870" packagename=""/>
+		</type>
+	</switch>
+</layout>
