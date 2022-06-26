@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022062701" updatetime="20220627">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="B92F7782333D62A119FCA462B58B68F5.jpg" title="篮球新符号" content="篮球存在于无数篮球爱好者内心中，是多少男孩子的快乐！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5395889" packagename=""/>
+			<image src="2536E351617E29673A8C2F9F53B0D123.jpg" title="玩转水上摩托" content="水上摩托可以瞬间提速，没有刹车，因此初学者必须常备救生装置，不可追逐嬉闹。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00Q4S36DECQ4P.html" packagename=""/>
+		</type>
+	</switch>
+</layout>
