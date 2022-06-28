@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022062901" updatetime="20220629">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="EA650BDA8FBBF5DB04F76846B4FE8AAB.jpg" title="演员的少女感" content="这些女星天生娃娃脸，她们可爱灵动、眼神清澈、演技在线。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3598926.html?meetting=1650772233382" packagename=""/>
+			<image src="FEA20C098C8FBEC9AF222471EE1F26F5.jpg" title="多才多艺白敬亭" content="他既能优雅的弹奏钢琴，又能在篮球场上挥汗如雨，这就是多才多艺的白敬亭。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/302458_0.html?6215" packagename=""/>
+			<image src="A5D7B5F43AABCA1E26F8A123A71D3104.jpg" title="氧气少女宋妍霏" content="宋妍霏呼吸感大片释出，演绎夏日晴空里的氧气少女。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7112329420035375650/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426722" packagename=""/>
+			<image src="246A8B647B0B780A00E6F54EED0AFF02.jpg" title="新晋小生四美男" content="“四小生”的评选，一般都是颜值较高、有爆款的影视剧、热度较火的男演员。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213583.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
