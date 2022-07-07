@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022070801" updatetime="20220708">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="8DC51A03054CB5538261AA6B9DF55822.jpg" title="锦鲤少女杨超越" content="从餐厅服务员到成为顶流女明星，看锦鲤少女杨超越的神奇逆袭之路。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301421_0.html?651" packagename=""/>
+			<image src="F354615235270E117BB41E84DACCCFFB.jpg" title="回廊亭" content="高能悬疑剧来袭！邓家佳张新成陷豪门疑云，两人携手探寻人性迷局。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hiOzYm2Xao" packagename=""/>
+			<image src="D053D0FB6648FA4D3F8878EAD4E33088.jpg" title="不老女星大盘点" content="秦岚仿佛天生自带东方美人的古典婉约气质，面容越看越有韵味。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213786.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="9CB9BA7BDC474F54ABCB5BF72685C3E7.jpg" title="圈中的戏痴女星" content="年轻时叛逆放纵，后因大学老师偶然的夸奖，宋佳从此爱上了演戏。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624588.html?meetting=1656472836490" packagename=""/>
+			<image src="1C2843E8775BA0AA75A1EB13F7143617.jpg" title="赵今麦的魅力" content="赵今麦在一点一点的尝试着不同的风格，也在影视剧中一点一点地长大。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7117157745601757730/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427175" packagename=""/>
+		</type>
+	</switch>
+</layout>
