@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022070901" updatetime="20220709">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4F647ED8E899876651F815F0C3A76AD4.jpg" title="王源再唱金曲" content="王源再唱王菲金曲《如风》，少年的世界里，有少年的自在如风。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/gGFkQ0SpOM" packagename=""/>
+			<image src="74D1E991AD687FF71974FECE3CF6DBF1.jpg" title="少数民族女星" content="一起来盘点一下内娱中的少数民族美人，看看谁是你心中的朱砂痣！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213778.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="D80682F564595CF0DEE6D7A473B87D78.jpg" title="圈中的综艺女神" content="敢于丢掉美女包袱，展现洒脱的个性，古力娜扎让观众看见了她真实的一面。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624583.html?meetting=1656472836800" packagename=""/>
+			<image src="4BEBE2EB5E480D88232B9E3117707747.jpg" title="治愈系暖男李现" content="李现多才多艺且自律，他说：“流量只是一时的，但作品是永恒的。”©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304211_0.html?6228" packagename=""/>
+			<image src="18E98AA3AB03E6F52C70FC82256A3F2C.jpg" title="黄奕告别浪姐" content="黄奕晒照发长文告别《乘风破浪》，并言其在节目中收获了继续前行的满满力量。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7115783382763651584/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427145" packagename=""/>
+		</type>
+	</switch>
+</layout>
