@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071001" updatetime="20220710">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C26269970E343330126995BF02CA38DF.jpg" title="周深的天籁之音" content="从害羞大男孩，到拥有爱和力量的歌手，周深初心仍在。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624354.html?meetting=1655884235044" packagename=""/>
+			<image src="92FF92E4E12A7442BAB51440451D0E7C.jpg" title="独立女性董璇" content="董璇专注演戏，不仅保持着初心和热爱，还努力去塑造更多优秀的角色！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213788.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="329FFED9DEAE722DC57ED1A618EB111E.jpg" title="钟楚曦的时尚感" content="钟楚曦热带雨林大片诠释度假风，穿搭休闲彩色染发别致吸睛。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304523_0.html?6238" packagename=""/>
+			<image src="35D8D04E37F27F360F945A8AF88EB195.jpg" title="迪丽热巴被认可" content="迪丽热巴提名标志性世界最佳女演员，真是太优秀了。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116717192397210119/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427127" packagename=""/>
+		</type>
+	</switch>
+</layout>
