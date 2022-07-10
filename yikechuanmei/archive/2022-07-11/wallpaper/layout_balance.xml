@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071101" updatetime="20220711">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="208ADC9F346FCC8AA4317F0D3DBC59F1.jpg" title="范丞丞一路蜕变" content="范丞丞虽然是爱豆，但他却毫无偶像包袱，真诚努力的去做一个好演员。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213771.html?ad=yeshttps://h5.visualchina.com/article/article_213771.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="5BE21795ECF7F426DA701F36F0CC8CB4.jpg" title="返璞归真的杨颖" content="种菜、养猫、冲浪，杨颖一直坚守本心，做最真实的自己。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624567.html?meetting=1656472233248" packagename=""/>
+			<image src="26602AC999FEDE49B38C74CD1D1265CE.jpg" title="努力前行的杨紫" content="童星出道，科班出身，杨紫的演技从没让人失望过。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304683_0.html?6250" packagename=""/>
+			<image src="BC5491CB801007EDB92302099729F1E9.jpg" title="龚俊新剧开机" content="龚俊的古装形象出众，是少有的古装美男子，由他饰演东方月初备受观众期待。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7115719915415290382/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427146" packagename=""/>
+		</type>
+	</switch>
+</layout>
