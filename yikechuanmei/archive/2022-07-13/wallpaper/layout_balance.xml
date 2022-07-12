@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071301" updatetime="20220713">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="54719779F1D6492FDB936E2003780F2D.jpg" title="甜美女星李兰迪" content="因出演《你好，旧时光》走红，李兰迪才是妥妥的“初恋脸”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623889.html?meetting=1654066836942" packagename=""/>
+			<image src="D60CD542D8F537D057D2993F29710696.jpg" title="美人古力娜扎" content="古力娜扎或沉静内敛、或俏皮可爱，给人一种与众不同的百变气质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304751_0.html?6262" packagename=""/>
+			<image src="DFEA8DF31FE50174C6FC5CD063F39053.jpg" title="林允角色的蜕变" content="林允新剧告别了女性题材影视作品必有相争的模式，它里面更多是互相支持。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214176.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="3663D51EC4DC39DDE7410EBDDDB9BD6E.jpg" title="袁姗姗代表作" content="在《宫锁珠帘》中袁姗姗饰演的怜儿让她知名度大涨，被观众所熟知。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7114484689225794084/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427418" packagename=""/>
+		</type>
+	</switch>
+</layout>
