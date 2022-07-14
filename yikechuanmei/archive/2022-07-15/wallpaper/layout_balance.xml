@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071502" updatetime="20220715">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="4D6D893DBBE28629941F0FDDD8C023C4.jpg" title="圈内的混血女星" content="杨颖五官精致，卢靖姗英姿飒爽，莫文蔚气质独特，许玮甯像洋娃娃！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623528.html?meetting=1653001239517" packagename=""/>
+			<image src="030A296D7CE59AA3B598A34057FB4EDE.jpg" title="金晨秀完美身材" content="金晨身材逆天了！纤腰细腿让人羡慕，不愧是时尚圈“小妖精” ！©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301227_0.html?634" packagename=""/>
+			<image src="77B1E2CA979652E2484B57D1ABD7E84A.jpg" title="王子文特立独行" content="王子文可以是娇俏可爱的少女，也可以是妩媚动人的成熟女性。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214145.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="9AD625AE02AB4A81CF0167C38204BD18.jpg" title="娜扎童话感写真" content="古力娜扎长发披肩气质冷艳，光影下宛若童话公主。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7114701272665686559/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427447" packagename=""/>
+		</type>
+	</switch>
+</layout>
