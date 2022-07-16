@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071702" updatetime="20220717">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="0A6E9D4AE54001CE87F54A22C8CF433D.jpg" title="甜美治愈系女星" content="盘点那些清新甜美、治愈系女明星，谁是你的最爱？©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623067.html?meetting=1651044635857" packagename=""/>
+			<image src="29717F55FBB15E026673CCA2A8C95EEC.jpg" title="元气少女邢菲" content="邢菲的可爱从戏里甜到戏外，杂技演员出身的她，如今已是甜宠剧女王。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/293090_0.html?618" packagename=""/>
+			<image src="A4C4572DA847C2D52DF13AB17C1F401E.jpg" title="柳岩新剧获好评" content="柳岩凭借新剧再次回到大众的视野中，并将剧中“孙三娘”这一角色刻画得淋漓尽致。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214125.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="822AB91F120CBDAAB275EB3932582B8C.jpg" title="低调女演员宋轶" content="从《红楼梦》的香菱，到《伪装者》的曼丽，宋轶的演技日渐成熟。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7111994229374730783/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427500" packagename=""/>
+		</type>
+	</switch>
+</layout>
