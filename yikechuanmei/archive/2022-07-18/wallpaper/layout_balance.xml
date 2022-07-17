@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071701" updatetime="20220717">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="0D6A3797CF3123745C966795ED6F18E4.jpg" title="帆船的迷人之处" content="许多皇室贵族都偏爱帆船，征服海洋的同时帆船会给予人勇气、守序等优良品质。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00Q3YN6ZNYXSV.html" packagename=""/>
+			<image src="84738BCC88A9DCA82C27EE18F92717D8.jpg" title="攀冰运动" content="奔腾的瀑布被大自然定格，冰镐凿击冰面的声响，仿佛直接敲打在你的神经上。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5405090" packagename=""/>
+			<image src="10F6169C8E45405D24F888532B2115F5.jpg" title="体操服装知多少" content="体操是一项大家公认的运动艺术，它能够给观众传递美感，让人留下深刻的印象。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214150.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="BAEC09BCC2089FB26A8242B47B1C18CC.jpg" title="橄榄球小知识" content="橄榄球规则允许每个队11名球员同时在场，球队可在每档进攻间任意更换球员。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6825497500917432843/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427642" packagename=""/>
+		</type>
+	</switch>
+</layout>
