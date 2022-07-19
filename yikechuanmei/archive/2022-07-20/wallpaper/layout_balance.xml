@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072001" updatetime="20220720">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="93C5C51FF4E05142C22D53F0CAEAF1E6.jpg" title="穿搭典范张嘉倪" content="张嘉倪真是辣妈界翘楚，穿绸缎裙大秀好身材。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/271321_0.html?605" packagename=""/>
+			<image src="6CBC3B255983EA6D2637A4D0B6AC940A.jpg" title="三观超正的女星" content="主动关闭直播打赏，号召30万观众“不打赏”，张馨予是娱乐圈里的一股清流。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624803.html?meetting=1657095034108" packagename=""/>
+			<image src="F5398F5D4B9C4BFCE63947F04E89B729.jpg" title="陶虹的多彩人生" content="从体坛到影坛，头顶光环的陶虹拉开了人生新篇章的大荧幕。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214138.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="407564E14C5A92A28D412E1FB0FFB0E3.jpg" title="妖精专业户陈瑶" content="充满灵气的陈瑶，在演妖精的路上越走越远，岳绮罗一角令她一夜成名。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6824651010401632772/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427644" packagename=""/>
+		</type>
+	</switch>
+</layout>
