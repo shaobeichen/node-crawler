@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072201" updatetime="20220722">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="3FA8124546C0678B76112DC3CF941C9B.jpg" title="杨洋逐浪大片" content="在最适合出游的季节，杨洋来了一场说走就走的航行，享受愉悦的夏日时光。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/306063_0.html?6232" packagename=""/>
+			<image src="8B481B9B36B656E7B3214632902076E7.jpg" title="韩庚专注演戏" content="韩庚在《传家》中用心演绎小家大爱，通过细节将唐凤梧性格特点生动演绎，倍受观众好评。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624829.html?meetting=1657092034673" packagename=""/>
+			<image src="08E6C242AECF91ED3BF2C27DC653FBB5.jpg" title="赵露思夏日美照" content="照片中，赵露思秀出多套甜美穿搭，笑容灿烂长腿纤细身材超好。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7120503533572571687/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427646" packagename=""/>
+			<image src="EA58DD1927139F9CBA8536D422338ADC.jpg" title="徐海乔圈粉无数" content="徐海乔成功让大家做到了“人剧分离”，并且还拉近了和观众之间的距离。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214621.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>
