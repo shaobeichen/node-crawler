@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072301" updatetime="20220723">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B448B8F2B6960A1AF9695CA7A56069DB.jpg" title="迪丽热巴的蜕变" content="女神迪丽热巴不断努力着，从青涩蜕变成成熟，绽放光芒从未止步。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298323_0.html?0506" packagename=""/>
+			<image src="933BF9EC5BB322598EEF23945690FF5E.jpg" title="女团颜值天花板" content="刘些宁又甜又辣，吴宣仪性感撩人，而鞠婧祎是“四千年美女”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623846.html?meetting=1654068034234" packagename=""/>
+			<image src="56655F8A2199F3E4CA98B039639A879C.jpg" title="冷艳美人张俪" content="张俪在《乘风破浪3》中，气质一如既往地好，不论是颜值还是仪态都十分抢眼！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214620.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="567F0DF2EAA937FB654C6D8AACFB0A4E.jpg" title="任嘉伦即将霸屏" content="任嘉伦一次带来三部新剧，分别搭档杨颖、宋祖儿和李沁三位女神。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7122638497995162123/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427835" packagename=""/>
+		</type>
+	</switch>
+</layout>
