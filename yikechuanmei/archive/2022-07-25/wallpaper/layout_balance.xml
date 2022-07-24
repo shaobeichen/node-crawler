@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072501" updatetime="20220725">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D19CEC2055AFF39A1B8EEDDEDF045F08.jpg" title="杨颖事业心爆棚" content="不停地进组拍戏挑战多种角色、录综艺主持节目，杨颖的事业心让人折服！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3622700.html?meetting=1650600038182" packagename=""/>
+			<image src="F77E40CF3D6E5EA80A039FF88EE2C458.jpg" title="清纯脱俗张佳宁" content="张佳宁有颜又会穿，邻家和御姐随意切换，时尚驾驭度让人眼前一亮。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/299712_0.html?613" packagename=""/>
+			<image src="C40C1A71122C9432AA3406BC1A3C1E5F.jpg" title="黄奕暴瘦十斤" content="黄奕卸下光环，站上《乘风破浪3》的舞台，开始蜕变重生。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214624.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="F1855A82FAF1081D8B00ED539714DF44.jpg" title="刘诗诗古装新剧" content="刘诗诗与刘宇宁首度合作的新剧官宣，时隔6年重回古装剧的她倍受观众期待。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7122256127643304482/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427858" packagename=""/>
+		</type>
+	</switch>
+</layout>
