@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072601" updatetime="20220726">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="BEC2028885ACB44FD072F61BFDBAE917.jpg" title="赵丽颖玩转时尚" content="赵丽颖逆袭时尚圈，当妈后颜值反而更高，秘密就在于穿搭上。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301523_0.html?610" packagename=""/>
+			<image src="AE3EE5D7EDD8DB468A1A5566889B6ADA.jpg" title="吴磊的少年感" content="童星出身的吴磊，作为一名入圈18年的资深演员，至今仍保持着那份赤诚。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624800.html?meetting=1657092034932" packagename=""/>
+			<image src="57D29EE5E5DCC1683487E53EAC2F8724.jpg" title="赖冠霖的蜕变" content="从优秀的唱跳歌手到创作人兼导演，赖冠霖一直在成长的路上。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7111883943011713549/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427852" packagename=""/>
+			<image src="A97876391C7551BA0E1F9C42BBA22A59.jpg" title="百变女神娜扎" content="她是《归还世界给你》中精明能干的女强人，也是《轩辕剑》中上古神器女娲石化身。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215184.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
