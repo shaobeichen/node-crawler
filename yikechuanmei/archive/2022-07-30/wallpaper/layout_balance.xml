@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022073001" updatetime="20220730">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="699C33E49EB668D9F7E762A0CE898086.jpg" title="风格多样的宣璐" content="她要证明，她不止是“全世界最好的师姐”，她更是演员、舞者宣璐。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/213188_0.html?0542" packagename=""/>
+			<image src="4271D8932EF0295A53B6B826C342D6F0.jpg" title="勇敢女孩杨超越" content="看似是“天选之子”，实际上是个不愿服输的“笨小孩儿”，杨超越用自己的努力得到观众的喜爱。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625036.html?meetting=1658479834483" packagename=""/>
+			<image src="713B86CE995F483B86BC2C56B08C9FBD.jpg" title="林允美上热搜" content="新剧中，林允“犹抱琵琶半遮面”的形象清丽秀雅，并将古装美人的清冷感精准拿捏。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215182.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="552B600A41CFA2D64A0FD56400600332.jpg" title="万茜再演反派" content="万茜新剧开播，悬疑感炸裂，收获大量好评。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7120131774235247138/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=428119" packagename=""/>
+		</type>
+	</switch>
+</layout>
