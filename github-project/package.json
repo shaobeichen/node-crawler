@@ -24,7 +24,7 @@
     "opener": "^1.5.1",
     "superagent": "^4.0.0-beta.5",
     "superagent-charset": "^1.2.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.7.0"
   },
   "devDependencies": {}
 }

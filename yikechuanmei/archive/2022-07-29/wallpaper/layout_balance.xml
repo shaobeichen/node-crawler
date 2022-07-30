@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072901" updatetime="20220729">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="7DF7141E165640AF98782048FAE121AF.jpg" title="高级美人钟楚曦" content="拥有高挑纤细的身材，让人艳慕的直角肩，钟楚曦仿佛是从油画里走出来的美人。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/295298_0.html?0531" packagename=""/>
+			<image src="AC18D1016B9753C5F2E88463F319FE47.jpg" title="再次逆袭的宋茜" content="在事业巅峰时期回国，从女团队长到著名演员，宋茜的成功绝不是偶然。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625238.html?meetting=1658298036594" packagename=""/>
+			<image src="E3769C9F1C76C54858E4EDC7F3CCA66F.jpg" title="少年派2" content="赵今麦开始恋爱了？青春期撞上更年期，家长与孩子矛盾升级如何智解？©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hMKNNlZ95u" packagename=""/>
+			<image src="2081A561BB167BD04744B1635C83AD72.jpg" title="正能量黄小蕾" content="黄小蕾性格里自带着一股温暖的磁场，她始终保持着欢快的力量去感染别人。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215187.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="CADCD87D67A8BEC5FDFEC3343B4C998D.jpg" title="高冷美女刘亦菲" content="有一种美叫做刘亦菲，高冷又不食人间烟火。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6605143969598800392/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427443" packagename=""/>
+		</type>
+	</switch>
+</layout>

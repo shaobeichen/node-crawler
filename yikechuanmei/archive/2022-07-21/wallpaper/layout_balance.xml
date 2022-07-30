@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072101" updatetime="20220721">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="187039E1A52FDD41DE5FA2DDC9C13BBD.jpg" title="纯粹淡然的李沁" content="李沁淡然的性格让她成为娱乐圈的一股清流，不争不抢依然可以活得很精彩。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301524_0.html?614" packagename=""/>
+			<image src="9410CF6027E39F6BA843754B668AA824.jpg" title="圈内的励志女神" content="从社交恐惧症到与己为善，“励志女神”江疏影一直在努力接受不完美的自己。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624821.html?meetting=1657091436879" packagename=""/>
+			<image src="B6201A7577F94784EAB1CF3FDB41A809.jpg" title="独立勤奋马伊琍" content="勤奋的马伊琍不仅在事业上一路高歌猛进，在生活中也活得更加自由和随性。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214634.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="AFBBBE7BEF2964B626D49F695790F8E8.jpg" title="朱珠的盛世美颜" content="回顾朱珠饰演的众多角色，这些角色的一颦一笑都自带风情。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7071058214158107148/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427645" packagename=""/>
+		</type>
+	</switch>
+</layout>

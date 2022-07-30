@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12102" updatetime="20220620">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="DFD5DF24B09A15EE5E3255A443BBBC75.jpg" title="传统艺术插花" content="用一把本草、一束鲜花，把插花融入情感，让家居环境变得美轮美奂。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212408.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="8FE6A46E62D582D03F8AA3E8285F5A5A.jpg" title="世界花后郁金香" content="郁金香盛开的季节，淡淡的花香随着风儿吹向了整个世界。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7108552514915615271/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426042" packagename=""/>
+			<image src="CD67685D997C4C59E000C26FCC62CF71.jpg" title="室内灯光美学" content="家居环境的美感，来自于每一处细节的极致展现。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7104213178271203872/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425081" packagename=""/>
+			<image src="6C9AF810FB2CADE82B033328FF91018C.jpg" title="时尚装修格调" content="现代感十足的装修风格，显得十分有质感，让整个空间都充满了慵懒的氛围。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212471.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

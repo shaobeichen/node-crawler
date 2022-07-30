@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072701" updatetime="20220727">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="D22E5A1D68E7F396FCF0F4FC33436790.jpg" title="优质偶像王俊凯" content="实力演员王俊凯好片邀约不断，用勤奋和过人的天赋征服娱乐圈。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301144_0.html?628" packagename=""/>
+			<image src="C9C4C4A854EBEAEDA3DA38F0DD944ED3.jpg" title="古典美人周洁琼" content="周洁琼的淡粉旗袍装扮，将清新可爱和华丽霸气完美融合。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7118589979705623043/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427857" packagename=""/>
+			<image src="D6828D0174FEAE963A4BB0B4D3165E75.jpg" title="灵动少女杨紫" content="杨紫饰演了多部电视剧，她俏皮的模样不知道戳中了多少人的心房！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215158.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+			<image src="E9E6FFA0EF2CF0A3DE42C48FE4E4288D.jpg" title="热巴美照来袭" content="迪丽热巴身穿一席长裙出席活动，明艳又大气，让网友们惊艳不已。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625235.html?meetting=1658296838376" packagename=""/>
+		</type>
+	</switch>
+</layout>

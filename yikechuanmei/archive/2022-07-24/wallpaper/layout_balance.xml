@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072401" updatetime="20220724">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5A911E321CB7192781CF7F9254A78B03.jpg" title="剧中的美女杀手" content="影视剧中的美女杀手盘点，王鸥的苏瞬卿狠辣决绝，宋轶的曼丽身手矫捷。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623834.html?meetting=1653895837638" packagename=""/>
+			<image src="7C61118B28CD8FB413AD710FB6BB8BF1.jpg" title="甜心女孩毛晓彤" content="自带甜美笑容的毛晓彤，是颜值与实力兼具的新一代人气小花旦。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/301525_0.html?615" packagename=""/>
+			<image src="D01F567B0C84D943E442D004853EAA43.jpg" title="女神张嘉倪" content="张嘉倪挑剧本只看人设，精湛的演技让她能将角色生动诠释。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214629.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="52069EF5DB12FC7B94DCBDE6D94CA1F8.jpg" title="金鹰女神候选人" content="《庆余年》的热播，让李沁人气大增，成为金鹰女神最有潜力的候选人之一。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7120036347926118950/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427839" packagename=""/>
+		</type>
+	</switch>
+</layout>

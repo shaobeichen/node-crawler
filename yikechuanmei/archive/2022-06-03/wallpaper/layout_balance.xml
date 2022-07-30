@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11922" updatetime="20220602">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="33038E4D877C6E0C1663AC1D50BDC352.jpg" title="“羽”你相约" content="想要成为羽林高手，先看看这些实用羽毛球法则。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II012O2TF1RSZZW.html" packagename=""/>
+			<image src="F7F7B2C3C0229E089956AF9A51E8CDAA.jpg" title="篮球实战细节" content="即学即用，打了那么久的篮球，这些技巧你真的会吗？ ©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5390553" packagename=""/>
+		</type>
+	</switch>
+</layout>

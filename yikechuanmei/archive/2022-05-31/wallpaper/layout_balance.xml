@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11892" updatetime="20220530">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="8D41078981AB59093D45EE40F29628E1.jpg" title="芭蕾舞教学指南" content="零基础，如何跳芭蕾舞？这些芭蕾舞基础动作快来学学！©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY01BG90QOA131F.html" packagename=""/>
+			<image src="A040D6373408559C3023F5566EFFEF34.jpg" title="篮球热身不能少" content="学会这些动作，打篮球时就能做到收放自如。
+©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5390473" packagename=""/>
+		</type>
+	</switch>
+</layout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022072801" updatetime="20220728">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="06A42A48617D489AEF0E541A5FE0774C.jpg" title="邻家妹妹赵今麦" content="古灵精怪的赵今麦，可谓颜值与实力并存，未来可期。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/290642_0.html?0507" packagename=""/>
+			<image src="A863857B3C7070DC2A442894D1CB879A.jpg" title="《梦华录》林允" content="林允饰演的宋引章觉醒后，又飒又美的样子，让不少观众路转粉。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7120859845724537383/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427861" packagename=""/>
+			<image src="34C1C6224E1F746F6B87D81CA16548CE.jpg" title="金句达人乔欣" content="乔欣对于恋爱和婚姻的认识非常清醒，金句频出的她，被广大网友调侃是大家的“互联网嘴替”。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3625245.html?meetting=1658297437395" packagename=""/>
+			<image src="A76624F3B3E04AB5DA62E6339EDCD68D.jpg" title="沉香如屑" content="杨紫成毅新剧，高冷战神恋上戏精花仙。精致特效打造视觉盛宴。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hLRp3kdZwk" packagename=""/>
+			<image src="9CD173DA13C856D481BD16D9E0342FC6.jpg" title="白鹿靠演技出圈" content="白鹿虽然是网红出身，非科班出道，但通过六年的努力终于靠演技出圈。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_215174.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

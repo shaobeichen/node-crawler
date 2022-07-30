@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071401" updatetime="20220714">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="6090D9B79AF4E94F2F818D25FA1C03A4.jpg" title="国民女神高圆圆" content="由气质女神转变为硬核女强人，高圆圆的角色转变让人惊喜。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624577.html?meetting=1656472232740" packagename=""/>
+			<image src="6FD94D8658B720B981ABC8AF8666AE3F.jpg" title="清冷女神刘诗诗" content="刘诗诗美得像清冷的宋词，这种淡雅的古典气质，造就了她独一无二的气质。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304727_0.html?6261" packagename=""/>
+			<image src="6273102E4CEE90A0422789AB8145DDD8.jpg" title="刘敏涛敢说敢做" content="刘敏涛复出后专业素质不减当年，凭借作品再一次受到了网友们的关注。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214127.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="359ED268F7666F4C7D8927B283614CC3.jpg" title="热门剧盘点" content="上半年国产剧不仅新剧频出，而且爆款不断，国产剧未来可期。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7117160342714728975/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427177" packagename=""/>
+		</type>
+	</switch>
+</layout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11872" updatetime="20220528">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="9527BC959A8642B8475FE736B2EC59E5.jpg" title="篮球规则秒懂" content="篮球比赛由两个队参加，每队上场5人，其中1人为队长，替补球员有7人。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II003GQCNU39OP6.html" packagename=""/>
+			<image src="7D321CBEFD9B2E2DC745F9C3B3628542.jpg" title="酷炫滑板之路" content="掌握这些滑板技巧，让你一秒get酷guy姿势！©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5390131" packagename=""/>
+		</type>
+	</switch>
+</layout>

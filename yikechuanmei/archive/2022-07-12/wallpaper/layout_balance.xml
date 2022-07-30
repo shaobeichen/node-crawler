@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071201" updatetime="20220712">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="B345C63367A9E2D83EACA1F25E731BCC.jpg" title="古装女神鞠婧祎" content="从爱豆到演员，再到惊艳的古装美人，鞠婧祎的转型是非常成功的。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624125.html?meetting=1655459435477" packagename=""/>
+			<image src="7E3151750F5F673D41BDD3137FEB3722.jpg" title="遇见璀璨的你" content="陈乔恩金瀚上演治愈系职场爱情故事，二人带着过去的情感印记，互相救赎。©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hiSOGa3gFa" packagename=""/>
+			<image src="3D4361D0B44C7B382B909E5263792544.jpg" title="氧气少女张婧怡" content="张婧仪明媚感写真来袭，缤纷灿烂的色彩穿搭，彰显浪漫的少女氛围。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/304488_0.html?6235" packagename=""/>
+			<image src="5205E9935449EA058F6DF0AC4B2E6142.jpg" title="李沁的颜值" content="李沁的面容相当精致，小小的嘴巴，弯弯的眉毛，顾盼之间，又有一种十足的英气。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7112471443933250081/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427164" packagename=""/>
+			<image src="2A341B3923C380576037814013275F57.jpg" title="能力担当韩东君" content="韩东君行动力爆棚，露营、徒步、赛车、滑雪等，他都样样在行。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214181.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022063001" updatetime="20220630">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="C2F68C6F0890AC8293862DE7EAF10E8A.jpg" title="舞者金晨是御姐" content="金晨因饰演“霸道总裁”而找准定位，成功开启了她的御姐之路。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623888.html?meetting=1654162834178" packagename=""/>
+			<image src="A255CE7BBAF79EE38E75C7A77FAD6F4B.jpg" title="任嘉伦多重身份" content="乒乓球运动员、主唱、演员等，一起看任嘉伦的多彩人生路。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/302417_0.html?6211" packagename=""/>
+			<image src="F95D391108BD7EF40029FCC5CC771951.jpg" title="孙怡下班照曝光" content="照片中孙怡肌肤雪白，长腿纤细，穿着清爽干净又甜又辣，散发着夏日辣妹的气质。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7111533295426388480/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426687" packagename=""/>
+			<image src="F874404A2D0AC5F373128D599406DDD1.jpg" title="李易峰挑战自我" content="李易峰用自身实力不断刷新大家的认知，获得了观众的肯定与认可。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213585.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

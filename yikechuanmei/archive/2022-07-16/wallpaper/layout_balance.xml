@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071602" updatetime="20220716">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="9468FF4901EEFA964AA0CB9FEA939E0B.jpg" title="超会拍照的女星" content="想拍出日系元气风、港式复古风等？快来和这些女星学习拍照技巧！©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623021.html?meetting=1651225234094" packagename=""/>
+			<image src="ADBE0519134C94D6A9B90B60DF1A91F7.jpg" title="甜美可人的周也" content="气质可盐可甜，能演初恋女神也能演冷艳反派的周也，具有很强的可塑性。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/298953_0.html?659" packagename=""/>
+			<image src="E1CCA0A78101A7AF99A403E349AC5099.jpg" title="花儿与少年4" content="一捧蔬果在手，带buff露营的韩东君会在旅途中大展厨艺吗？©视频" cpname="" download="" contenturl="https://url.cloud.huawei.com/hl6XxSZZRu" packagename=""/>
+			<image src="90B9F4E4711610CFC1B6627EE14D7540.jpg" title="王鸥实力在线" content="王鸥一次一次的用敬业和演技证明自己，并一直挑战不同的自己。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214155.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="E6675928D3C2AB23AC3084661CDBDAEF.jpg" title="古典美女杨采钰" content="杨采钰集美貌与智慧于一身，五官精致大方，处处透露着迷人的魅力。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7116884870160482823/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427496" packagename=""/>
+		</type>
+	</switch>
+</layout>

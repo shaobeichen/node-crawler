@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12112" updatetime="20220621">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="9640AAAB30FFBA83AD258FF5F277D133.jpg" title="星座的代表花" content="这些花颜色不同，花型不同，但是却能正好契合它所代表的星座。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7109378197279605252/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426214" packagename=""/>
+			<image src="822728926FFE97B880905E0E639027C8.jpg" title="鲜花身价显高贵" content="你眼前的或许只是一束花，可它却是花艺师精心创造出的精华。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212900.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="568E68DA9ADCE0F88D6D9EB17F0F27BA.jpg" title="厨房配色法则" content="在时尚界里，常有人用高级感配色来彰显时尚与品味，家居界亦是如此。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7103365375198528041/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426301" packagename=""/>
+			<image src="7FF916BDF21EE85156540F28A266E0C5.jpg" title="静谧原木之家" content="空间点缀自然之木，辅以肌理之素，让你的视觉简约洁净。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212864.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

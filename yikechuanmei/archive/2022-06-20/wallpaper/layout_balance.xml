@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022061801" updatetime="20220618">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="75CCA43F0DFEEDB1EB328D76A7BCF603.jpg" title="冰上芭蕾" content="速滑运动还可以在陆地上练习？陆地诱导动作和模仿动作，带你进入速滑的世界。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II009IBOJGBWGO9.html" packagename=""/>
+			<image src="9B1631DCD561C914AC68D613C6D2A16E.jpg" title="沙地摩托车" content="沙地摩擦力大，结构松散，非常考验骑手的驾驶技术。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5403870" packagename=""/>
+		</type>
+	</switch>
+</layout>

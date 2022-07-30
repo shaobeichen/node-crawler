@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022071901" updatetime="20220719">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="5A0DFC7F963B9B9D9A989D1146D43C3C.jpg" title="时尚辣妈杨颖" content="除了在演艺方面很优秀外，杨颖在穿搭上也毫不逊色，一起看看她的穿搭吧。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/300828_0.html?601" packagename=""/>
+			<image src="74B9D177D39256B9F8D7C772575D15BF.jpg" title="热巴的蜕变之路" content="因海选进入娱乐圈，如今又饰演精英检察官，迪丽热巴一直不断打磨演技。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3624594.html?meetting=1656666037128" packagename=""/>
+			<image src="610DC7ACC712C76902B28908C69FA899.jpg" title="明星亦可接地气" content="阚清子开三轮车，李现街头吃热干面，这几位明星的生活很接地气。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a6963249264726295048/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=427639" packagename=""/>
+			<image src="BBD9D6C0CCFFED39A563CCE309A3D93C.jpg" title="高学历明星盘点" content="提到周笔畅，你会想起她的经典歌曲，但很多人不知道的是，她还是一个隐藏的学霸！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_214617.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>

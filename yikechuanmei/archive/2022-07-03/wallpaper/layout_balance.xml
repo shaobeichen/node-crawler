@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022070101" updatetime="20220701">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="D30561EFBC350F2976B9E270FBEAE857.jpg" title="练乒乓球的益处" content="练乒乓球，对矫正青少年近视、预防老年痴呆都有着已被证实的好处。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II00IJMRE16LYS2.html" packagename=""/>
+			<image src="9F0B226339C8FC2F9ADC8A6D39A226DC.jpg" title="滑板U型池起源" content="滑板常见的碗池和U型池并不是滑板最初的练习场地。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5393416" packagename=""/>
+			<image src="1BA3A5AC231A205A00655D3A63B4DDF8.jpg" title="珍藏台球秘籍" content="七种台球高级技巧，让你在球桌上成为最受关注的击球达人，一杆清台不是梦！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7113720581778080268/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426748" packagename=""/>
+		</type>
+	</switch>
+</layout>

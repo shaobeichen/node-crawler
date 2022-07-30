@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11742" updatetime="20220515">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="06A031CE61486928771B2B7CC56B4F79.jpg" title="勇敢者的运动" content="这种摩托，以“不走平坦路”为己任，一路跳上山顶？©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5387603" packagename=""/>
+			<image src="66D3B5A8A1194458173C340ED1AFA12C.jpg" title="逐渐消失的球技" content="篮球风潮一直在变，篮球技法亦会随之历久弥新。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II014AB4QOJRPRW.html" packagename=""/>
+		</type>
+	</switch>
+</layout>

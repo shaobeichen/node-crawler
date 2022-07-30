@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11822" updatetime="20220523">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="179067575E68227F5D1818D34D2835CB.jpg" title="体育界的维密秀" content="艺术体操除了参赛选手精湛的表演外，它的魅力让你意想不到！©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5387580" packagename=""/>
+			<image src="C768066F021A0B2A17EC64541426FFCD.jpg" title="扣篮不是梦" content="如果你想要扣篮，那就练这几个动作，练就扎实弹跳爆发力©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY00OQMM651VP82.html" packagename=""/>
+		</type>
+	</switch>
+</layout>

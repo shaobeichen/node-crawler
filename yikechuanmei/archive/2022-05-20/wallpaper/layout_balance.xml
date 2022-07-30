@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.11782" updatetime="20220519">
+	<switch>
+		<type id="16036" src="icon_20190604151432.png" title="体育" selected="true">
+			<image src="D781F01D64A49CC87DDDC6F8AB4FB838.jpg" title="公认的冲浪胜地" content="“冲浪之乡”海南，坐拥国家冲浪队训练基地，美景值得驻足！©好看" cpname="" download="" contenturl="https://www.autodis.cn/detail/100000/5388493" packagename=""/>
+			<image src="B8D2AD7802E40E0F3B91100589EB451D.jpg" title="学芭蕾的误区" content="年龄太大练不了芭蕾？其实学芭蕾从来不会晚。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/IY01BG3WH6DCIHD.html" packagename=""/>
+		</type>
+	</switch>
+</layout>

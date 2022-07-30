@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022070401" updatetime="20220704">
+	<switch>
+		<type id="42542" src="icon_20220419151654.png" title="明星" selected="true">
+			<image src="85FDCA4DA5B8DEFCA8DB1274F3CB1964.jpg" title="不服输的许凯" content="看当红男星许凯是如何霸屏影视，成长为独树一帜的大男主的。©盖饭娱乐" cpname="" download="" contenturl="https://huawei.17getfun.com/lockscreen/Huaweisuoping-3623507.html?meetting=1653001240814" packagename=""/>
+			<image src="CDC22BCBC4B5B65BB4519BC6A864C7CC.jpg" title="状态在线的唐嫣" content="唐嫣产后状态完美，身材苗条腰身纤细，衣品穿搭堪称时尚教科书。©疯狂E族" cpname="" download="" contenturl="https://4g.baizhan.net/05/1773/300864_0.html?608" packagename=""/>
+			<image src="C3595C4D4EE768B952D88419EDC57C6C.jpg" title="都市剧中的清流" content="《欢迎光临》的阵容并不算豪华，但里面的演员大多都是观众喜爱的实力派。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213579.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="C9AEE3EA169302F6FA2C0513A57B7C4D.jpg" title="演艺圈敬业劳模" content="刘涛吃戏人间真实，于文文吃芒果令无数观众为之动容！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7054353713972052513/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426873" packagename=""/>
+		</type>
+	</switch>
+</layout>

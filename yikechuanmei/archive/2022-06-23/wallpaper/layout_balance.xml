@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.2022062301" updatetime="20220623">
+	<switch>
+		<type id="42545" src="icon_20220419161939.png" title="体育" selected="true">
+			<image src="0515FE30347D7020C2D8E8B8B758F72B.jpg" title="网前球绝技" content="学会这五点，成就你的网前绝杀。©有料画报" cpname="" download="" contenturl="https://yiyouliao.com/api-server/rss/888e47f4297a/item/II00WJ1MBKOOO3D.html" packagename=""/>
+			<image src="40560C0832120D00BDDC84212DDA5DCF.jpg" title="户外攀岩梦" content="多数人会认为，攀岩是靠手的力量来进行攀爬，其实则不然。©好看" cpname="" download="" contenturl="https://redirect.levect.com/10063/100001/5404337" packagename=""/>
+		</type>
+	</switch>
+</layout>

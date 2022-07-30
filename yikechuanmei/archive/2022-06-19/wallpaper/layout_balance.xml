@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12082" updatetime="20220618">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="CA3C6971F24594FE38219BAB41F3186D.jpg" title="人间富贵花" content="牡丹花的花语极其美好，它是古往今来都受欢迎的花卉植物，一度被推崇为国花。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212465.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="5FE471C4D1E0ED926A29483AAD49E0A2.jpg" title="浪漫在此绽放" content="玫瑰代表着爱情，是人们情感传递的一个重要的纽带。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7108553452623626763/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=426020" packagename=""/>
+			<image src="22B1ADE545AA0C92EE02AE5C41E8A06A.jpg" title="软装新风潮" content="现在都在流行“轻硬装、重软装”的装修思维，软装的重要性愈发明显。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7020984163918561825/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425851" packagename=""/>
+			<image src="FC4178118B5FB499A68DADACBABA0C4F.jpg" title="黑白家居配色" content="黑白配，演绎出彩的室内空间，从而给人干脆利落的感觉。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212543.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="4CD92459DAD19C27792E37EC8DD51DC8.jpg" title="父亲的背影" content="您陪我长大，我陪您变老。老爸，我爱你！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_213410.html?ad=yes&amp;channelCode=huawei_mp" packagename=""/>
+		</type>
+	</switch>
+</layout>

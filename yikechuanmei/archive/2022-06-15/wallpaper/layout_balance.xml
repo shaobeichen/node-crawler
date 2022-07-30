@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<layout version="2.3.12042" updatetime="20220614">
+	<switch>
+		<type id="10581" src="icon_20190604151334.png" title="生活" selected="true">
+			<image src="A5628922CCA1257EA17422D77497F24D.jpg" title="玫瑰动人神话" content="玫瑰的诞生来自于众神的祝福，集爱与美于一身！©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7104197870789624359/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425652" packagename=""/>
+			<image src="62CE22C3AD97329D5E0BE9EE215F1DEB.jpg" title="鲜花御龄术" content="时光易逝，细心呵护你的花朵，让鲜花陪伴你更久的时间！©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212449.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+			<image src="30E9923F697D4E278F38B56D085C66E1.jpg" title="梦幻感艺术空间" content="摒弃繁复的图形，将现代艺术与生活紧密结合起来，这样的家才更具艺术性。©图虫创意" cpname="" download="" contenturl="https://open.toutiao.com/a7037803028841300512/?utm_campaign=open&amp;utm_medium=webview&amp;utm_source=huawei_sl_wap&amp;cover_id=425905" packagename=""/>
+			<image src="01F497E8836361A4BACAB443FA764D8B.jpg" title="温馨独居生活" content="一个人也可以很精致，把独居生活过得悠闲自在又富有诗意。©视觉中国" cpname="" download="" contenturl="https://h5.visualchina.com/article/article_212469.html?ad=yes&amp;channelCode=huawei" packagename=""/>
+		</type>
+	</switch>
+</layout>
