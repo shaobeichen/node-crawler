@@ -27,7 +27,7 @@ $ npm start
 
 ## 贡献
 
-- 有任何意见或建议都欢迎提 issue，或者直接提给 [@Leachzhou](http://github.com/leachzhou)
+- 有任何意见或建议都欢迎提 issue，或者直接提给 [@shaobeichen](http://github.com/shaobeichen)
 
 ## License
 
