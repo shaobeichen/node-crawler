@@ -12,6 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "chalk": "^5.0.1",
+        "ora": "^6.1.2",
         "puppeteer": "^10.2.0",
         "single-line-log": "^1.1.2"
     }
