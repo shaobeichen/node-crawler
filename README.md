@@ -6,13 +6,21 @@
 
 ## 目录
 
-- [[init-demo]](https://github.com/shaobeichen/node-demo/tree/master/init-demo) Node 练习
-- [[juejin-following]](https://github.com/shaobeichen/node-demo/tree/master/juejin-following) 掘金关注爬虫
-- [[github-project]](https://github.com/shaobeichen/node-demo/tree/master/github-project) github project 爬虫
-- [[mt-ele]](https://github.com/shaobeichen/node-demo/tree/master/mt-ele) 饿了么美团商家 爬虫
-- [[girls-image]](https://github.com/shaobeichen/node-demo/tree/master/girls-image) 美女图 爬虫
-- [[douban-group-reply]](https://github.com/shaobeichen/node-demo/tree/master/douban-group-reply) 豆瓣小组评论 爬虫
-- [[yikechuanmei]](https://github.com/shaobeichen/node-demo/tree/master/yikechuanmei) 华为壹刻传媒锁屏壁纸 爬虫
+| 仓库               | 介绍                      | 状态 |
+| ------------------ | :------------------------ | :--- |
+| cartoon            | 漫画 puppeteer 爬虫       | 正常 |
+| crawler-cli        | 早期爬虫脚手架            | 异常 |
+| design-node        | 头像爬虫                  | 正常 |
+| douban-group-reply | 豆瓣小组顶帖爬虫(fork)    | 异常 |
+| girls-image        | 美女图爬虫                | 异常 |
+| github-project     | 漫画爬虫                  | 正常 |
+| init-demo          | Node 练习                 | 未知 |
+| juejin-following   | 掘金关注爬虫              | 正常 |
+| junjin-unfollow    | 掘金取消关注爬虫          | 正常 |
+| mt-ele-new         | 饿了么美团商家爬虫        | 异常 |
+| mt-ele             | 饿了么美团商家爬虫        | 异常 |
+| weiboImg           | 微博图片爬虫              | 异常 |
+| xiaohongshu        | 小红书 puppeteer 练习爬虫 | 异常 |
 
 ## 贡献
 
@@ -20,4 +28,4 @@
 
 ## License
 
-- MIT
+- GPL
