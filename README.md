@@ -13,7 +13,7 @@
 | design-node        | 头像爬虫                  | 正常 |
 | douban-group-reply | 豆瓣小组顶帖爬虫(fork)    | 异常 |
 | girls-image        | 美女图爬虫                | 异常 |
-| github-project     | 漫画爬虫                  | 正常 |
+| github-project     | github爬虫                  | 正常 |
 | init-demo          | Node 练习                 | 未知 |
 | juejin-following   | 掘金关注爬虫              | 正常 |
 | junjin-unfollow    | 掘金取消关注爬虫          | 正常 |
